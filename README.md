@@ -11,3 +11,9 @@ Designed for developers and data analysts.
 https://dbeaver.io/
 Free multi-platform database tool for developers, database administrators, analysts and all people who need to work with databases. Supports all popular databases: MySQL, PostgreSQL, SQLite, Oracle, DB2, SQL Server, Sybase, MS Access, Teradata, Firebird, Apache Hive, Phoenix, Presto, etc.
 It also aids you in visualizing the data in your database.
+
+
+
+# CDN Links 
+https://cdnjs.com/
+Looking for a place to find the cdn link for a library you want to serve from a cdn service to improve speed?
