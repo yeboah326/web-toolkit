@@ -1,6 +1,22 @@
 # web-toolkit
 A collection of links to resources that can help quicken development process
 
+# Contents
+
+- [Vector Graphics and Illustrations]()
+
+- [Database Design](https://github.com/yeboah326/web-toolkit#database-design)
+
+- [CDN Links](https://github.com/yeboah326/web-toolkit#cdn-links)
+
+- [Bootstrap Templates](https://github.com/yeboah326/web-toolkit#bootstrap-templates)
+
+- [Django Packages](https://github.com/yeboah326/web-toolkit#django-packages)
+
+- [Wagtail Packages](https://github.com/yeboah326/web-toolkit#wagtail-packages)
+
+
+
 # Database Design
 **DBDiagram.io**
 https://dbdiagram.io/
