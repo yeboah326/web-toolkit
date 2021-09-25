@@ -15,13 +15,23 @@ A collection of links to resources that can help quicken development process
 
 - [Wagtail Packages](https://github.com/yeboah326/web-toolkit#wagtail-packages)
 
+- [Site Optimization]()
 
+
+# Vector Graphics and Illustrations
+**Undraw**
+Undraw is an awesome resource that gives a collection of free SVG illustrations that you can use on your projects. You can search for illustrations that fit your brand and also define the color of your illustrations. It’s a great resource, just give it a try.
+https://undraw.co
+
+**Storyset**
+Storyset contains awesome free customizable illustrations for your next project [Link](https://storyset.com/)
+
+**Error404**
+Error404 contains illustrations specifically for your next 404 page. [Link](https://error404.fun/)
 
 # Database Design
 **DBDiagram.io**
-https://dbdiagram.io/
-A free, simple tool to draw Entity-Relational diagrams by just writing code.
-Designed for developers and data analysts. 
+A free, simple tool to draw Entity-Relational diagrams by just writing code. Designed for developers and data analysts.[Link](https://dbdiagram.io/)
 
 **DBeaver**
 https://dbeaver.io/
@@ -62,3 +72,7 @@ Wagtail-contact-reply - to reply wagtail forms inside the wagtail admin
 **Wagtail Birdsong**
 Wagtail-birdsong - to create email subscriptions in a wagtail app
  
+
+# Site Optimization
+**Squoosh**
+Squoosh is an amazing free tool that allows you to easily compress images and optimize them for the web. [Link](https://squoosh.app/)
