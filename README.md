@@ -19,19 +19,19 @@ A collection of links to resources that can help quicken development process
 
 
 # Vector Graphics and Illustrations
-## Undraw
+## Undraw - [Link](https://undraw.co)
 Undraw is an awesome resource that gives a collection of free SVG illustrations that you can use on your projects. You can search for illustrations that fit your brand and also define the color of your illustrations. It’s a great resource, just give it a try.
-https://undraw.co
 
-## Storyset
-Storyset contains awesome free customizable illustrations for your next project [Link](https://storyset.com/)
 
-## Error404
-Error404 contains illustrations specifically for your next 404 page. [Link](https://error404.fun/)
+## Storyset - [Link](https://storyset.com/)
+Storyset contains awesome free customizable illustrations for your next project
+
+## Error404 [Link](https://error404.fun/)
+Error404 contains illustrations specifically for your next 404 page. 
 
 # Database Design
-## DBDiagram.io
-A free, simple tool to draw Entity-Relational diagrams by just writing code. Designed for developers and data analysts.[Link](https://dbdiagram.io/)
+## DBDiagram.io - [Link](https://dbdiagram.io/)
+A free, simple tool to draw Entity-Relational diagrams by just writing code. Designed for developers and data analysts.
 
 # CDN Links - [Link](https://cdnjs.com/)
 Looking for a place to find the cdn link for a library you want to serve from a cdn service to improve speed?
@@ -44,17 +44,17 @@ At BootstrapMade, we create beautiful website templates using Bootstrap, the mos
 ## Django Widget Tweaks - [Link](https://pypi.python.org/pypi/django-widget-tweaks)
 Django Widget Tweaks - If you need to include bootstrap CSS classes to your forms to make the display nicer, this has you covered.
 
-## Django Newsletter - [Link](https://django-newsletter.readthedocs.io/)**
+## Django Newsletter - [Link](https://django-newsletter.readthedocs.io/)
 Django Newsletter - Django newsletter is used to send emails to subscribers and to create subscribers model and things related to subscription in Django.
 
-## Sorl Thumbnail - [Link](https://sorl-thumbnail.readthedocs.io/)**
+## Sorl Thumbnail - [Link](https://sorl-thumbnail.readthedocs.io/)
 Sorl Thumbnail - This package is used to create a thumbnail of images in Django.
 
-## Django Countries - [Link](https://pypi.org/project/django-countries)**
+## Django Countries - [Link](https://pypi.org/project/django-countries)
 Django Countries - This package is used to get countries as drop down to be selected in Django. A Django application that provides country choices for use with forms, flag icons static files, and a country field for models.
 
 # Wagtail Packages
-## Wagtail Contact Reply - [Link](https://github.com/KalobTaulien/wagtail-contact-reply)**
+## Wagtail Contact Reply - [Link](https://github.com/KalobTaulien/wagtail-contact-reply)
 Wagtail-contact-reply - to reply wagtail forms inside the wagtail admin
 
 ## Wagtail Birdsong - [Link](https://github.com/neon-jungle/wagtail-birdsong)
