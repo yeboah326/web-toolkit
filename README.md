@@ -3,7 +3,7 @@ A collection of links to resources that can help quicken development process
 
 # Contents
 
-- [Vector Graphics and Illustrations]()
+- [Vector Graphics and Illustrations](https://github.com/yeboah326/web-toolkit#vector-graphics-and-illustrations)
 
 - [Database Design](https://github.com/yeboah326/web-toolkit#database-design)
 
@@ -15,7 +15,7 @@ A collection of links to resources that can help quicken development process
 
 - [Wagtail](https://github.com/yeboah326/web-toolkit#wagtail-packages)
 
-- [Site Optimization]()
+- [Site Optimization](https://github.com/yeboah326/web-toolkit#site-optimization)
 
 
 # Vector Graphics and Illustrations
