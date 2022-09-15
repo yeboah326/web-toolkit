@@ -17,10 +17,15 @@ A collection of links to resources that can help quicken development process
 
 - [Site Optimization](https://github.com/yeboah326/web-toolkit#site-optimization)
 
+- [Pattern Generator](https://github.com/yeboah326/web-toolkit#pattern-generator)
+
 
 # Vector Graphics and Illustrations
 ## Undraw - [Link](https://undraw.co)
 Undraw is an awesome resource that gives a collection of free SVG illustrations that you can use on your projects. You can search for illustrations that fit your brand and also define the color of your illustrations. It’s a great resource, just give it a try.
+
+## Pattern Generator - [Link](https://doodad.dev/pattern-generator/)
+Pattern Generator is a tool to generate unique, seamless, royalty‑free patterns.
 
 
 ## Storyset - [Link](https://storyset.com/)
