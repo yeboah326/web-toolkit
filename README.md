@@ -19,6 +19,8 @@ A collection of links to resources that can help quicken development process
 
 - [Pattern Generator](https://github.com/yeboah326/web-toolkit#pattern-generator)
 
+- [Visual Studio Code Extensions](https://marketplace.visualstudio.com)
+
 
 # Vector Graphics and Illustrations
 ## Undraw - [Link](https://undraw.co)
@@ -69,3 +71,13 @@ Wagtail-birdsong - to create email subscriptions in a wagtail app
 # Site Optimization
 ## Squoosh - [Link](https://squoosh.app/)
 Squoosh is an amazing free tool that allows you to easily compress images and optimize them for the web
+
+
+# Visual Studio Code Extensions(VS Code)
+## React 
+Plugins to make your life easier as a react developer
+### Reactjs code snippets - [Link](https://marketplace.visualstudio.com/items?itemName=xabikos.ReactSnippets)
+
+### Simple React Snippets - [Link](https://marketplace.visualstudio.com/items?itemName=burkeholland.simple-react-snippets)
+
+### ES7+ React/Redux/React-Native snippets - [Link](https://marketplace.visualstudio.com/items?itemName=dsznajder.es7-react-js-snippets)
